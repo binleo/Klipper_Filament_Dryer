@@ -5,6 +5,8 @@ Heated Bed Filament Dryer for Klipper is a simple macro set that allows you to u
 This macro set allows you to utilize the heated bed and chamber (if available) of a 3D printer running Klipper firmware as a filament dryer.
 
 This project was customized and optimized for a better UI experience (inputting time in Hours, displaying an HH:MM:SS countdown) based on the original filament_dryer.cfg macro by NameOfTheDragon. A huge thanks to the original author for the idea!
+<img width="636" height="242" alt="image" src="https://github.com/user-attachments/assets/90e7f9e7-f8f8-410d-bc7a-e0b27479e2b2" />
+
 
 **⚙️ Installation Guide**
 To integrate this feature into your printer, simply follow these steps:
@@ -16,6 +18,8 @@ To integrate this feature into your printer, simply follow these steps:
 **🚀 How to Use**
 
 Once installed, your Mainsail/Fluidd interface will display the following macros:
+<img width="650" height="187" alt="image" src="https://github.com/user-attachments/assets/f445ee60-be12-4226-b21d-ba2bffd9c6e2" />
+
 
 START_DRYER: Starts the drying process. You can input the Bed temperature, Chamber temperature, and Drying Time (in Hours, decimals like 4.5 are accepted).
 
