@@ -35,4 +35,8 @@ Always supervise your 3D printer while it is operating.
 
 
 
+## ☕ Support
+
+If you find this macro helpful and it saves you some time, consider buying me a coffee! Your support is greatly appreciated. Thank you!
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jensenphan)
